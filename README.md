@@ -1,4 +1,4 @@
-# Codes for BTSP and HNN learning 
+# Codes for BTSP learning 
 
 This repository contains the code for the BTSP and HNN learning.
 
