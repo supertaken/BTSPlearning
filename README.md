@@ -7,5 +7,5 @@ This repository contains the code for the BTSP and HNN learning.
 
 ## Descriptions
 The compressed file `dataset.zip`is the dataset.
-`btsp_**` and `stdp_**` used to implement two learning rules. `associate_memory.py` used to test associate_memory. `cluster.py` used to test t-SNE analyse.
+These scripts evaluate BTSP- and HNN-based associative memory under varying database capacities and random masking rates. 
 
