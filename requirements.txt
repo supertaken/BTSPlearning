@@ -1,0 +1,6 @@
+numpy>=1.23
+pandas>=1.5
+openpyxl>=3.0
+opencv-python>=4.5
+matplotlib>=3.5
+torch>=1.13
